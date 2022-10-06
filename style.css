@@ -1,0 +1,151 @@
+body{
+    margin: 0%;
+    position: relative;
+}
+.upper_top{
+    width: 100%;
+    height: auto;
+    background-color: #EAF6F6;
+}
+.upper_cloud{
+    width:50%;
+    height: auto;
+    margin: auto;
+}
+.cloud-img{
+    width: 20%;
+    margin-left: 78%;
+}
+.cloud-img2{
+    width: 20%;
+}
+.name{
+    font-size: 100px;
+    font-family: 'Passions Conflict', cursive;
+    text-align: center;
+    margin-bottom: 0%;
+    color: #66BFBF;
+}
+.pro{
+    text-decoration: underline;
+}
+.programmer{
+    color: #66BFBF;
+    text-align: center;
+}
+.mountain_img{
+    width: 100%;
+    height: auto;
+}
+.profile{
+    width:50%;
+    height: auto;
+    margin: auto;
+    text-align-last: center;
+}
+.profile_img{
+    width: 30%;
+    margin-top: 2%;
+    
+}
+.hello{
+    font-size: 50px;
+    margin-top: 2%;
+    margin-bottom: 0%;
+    color: #66BFBF;
+}
+.heart{
+    color: red;
+}
+.first_para{
+    margin-top: 2%;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+}
+hr{
+    border: 8px dotted rgb(198, 195, 195);
+    border-style: none none dotted; 
+    color: #fff; 
+    width: 20%;
+    text-align: center;
+    background-color: #fff;
+}
+.skills{
+    color: #66BFBF;
+    font-size: 50px;
+    text-align: center;
+}
+.code{
+    float: left;
+    width: 30%;
+}
+.design{
+    text-align-last: left;
+    color: #66BFBF;
+    font-weight: bold;
+    font-size: 40px;
+}
+.code_intro{
+    font-weight: bold;
+    font-size: 25px;
+    text-align: justify;
+}
+.code_intro2{
+    margin-top: 10%;
+    font-weight: bold;
+    font-size: 25px;
+    text-align: justify;
+}
+.code2{
+    float: right;
+    padding-left: 2%;
+    border-radius: 100%;
+}
+.middle_section{
+    width: 100%;
+    height: auto;
+}
+.lower_section{
+    padding-top: 5%;
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+.Get_In_Touch,h3{
+    color: #66BFBF;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 3%;
+}
+.lower_para{
+    font-size: 20px;
+    width: 50%;
+    padding-left: 25%;
+    padding-bottom: 4%;
+}
+.contact{
+    font-weight: bold;
+    text-decoration: none;
+    padding: 1%;
+    border-radius: 10%;
+    font-size: 30px;
+    background-color: aqua;
+}
+.bottom{
+    width: 100%;
+    height: 100px;
+    background-color: #66BFBF;
+    margin-top: 5%;
+}
+.links{
+    text-decoration: none;
+    padding: 2%;
+    color: purple;
+}
+.collection_of_links{
+    text-align: center;
+    padding-top: 1.5%;
+    font-size: 20px;
+    margin: 0%;
+}
